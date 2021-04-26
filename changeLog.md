@@ -10,13 +10,16 @@ v0.1.91
 * AutoFill ProgramPath
 
 # Improvements
-* None
+* Added versioning to configurations.
+* Optimization for CPU utilization.
 
 # Bug Fixes
 * Offline notifications sending false alerts
 * Process without the auto-restart flag would not restart with start command from the Dashboard 
 * Processes would not terminate properly with interrupt
 * Starter kept cmd window open
+* Removed configuration keys that aren't used.
+* Default programs not found when available
 
 # Compatibility Warnings
 * None
