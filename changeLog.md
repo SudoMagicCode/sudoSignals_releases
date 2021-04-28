@@ -1,6 +1,3 @@
-# Release
-v0.1.91
-
 # Tested On
 * Windows 10 Pro
 
