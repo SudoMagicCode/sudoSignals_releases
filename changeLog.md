@@ -20,6 +20,7 @@ v0.1.91
 * Starter kept cmd window open
 * Removed configuration keys that aren't used.
 * Default programs not found when available
+* Process restarts failed after refefactor. 
 
 # Compatibility Warnings
 * None
