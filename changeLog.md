@@ -19,6 +19,7 @@
 * Default programs not found when available
 * Process restarts failed after refefactor. 
 * Process would restart after stop all command. 
+* Process names added to system report
 
 # Compatibility Warnings
 * None
