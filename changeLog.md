@@ -20,6 +20,7 @@
 * Process restarts failed after refefactor. 
 * Process would restart after stop all command. 
 * Process names added to system report
+* Process names displayed in systray.
 
 # Compatibility Warnings
 * None
