@@ -9,7 +9,7 @@
 
 # Bug Fixes
 * File paths with spaces now load correctly.
-
+* Issues with autostart and process startup
 
 
 # Compatibility Warnings
