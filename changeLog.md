@@ -10,6 +10,7 @@
 # Bug Fixes
 * File paths with spaces now load correctly.
 * Issues with autostart and process startup
+* Fixed issue with network connectivity causing process to reload endlessly
 
 
 # Compatibility Warnings
