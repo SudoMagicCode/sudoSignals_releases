@@ -5,7 +5,10 @@
 * None
 
 # Improvements
-* Process can start separately of sudoSignals and still be monitored.   
+* Process can start separately of sudoSignals and still be monitored.
+* SudoSignals will continue running when it loses connection to cloud 
+and attempt reconnection once network connectivity is re-established.
+* WS service port can now be changed in the project.yaml file.
 
 # Bug Fixes
 * File paths with spaces now load correctly.
