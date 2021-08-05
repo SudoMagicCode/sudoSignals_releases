@@ -14,6 +14,7 @@ and attempt reconnection once network connectivity is re-established.
 * File paths with spaces now load correctly.
 * Issues with autostart and process startup
 * Fixed issue with network connectivity causing process to reload endlessly
+* Process startup would not launch ableton with selected file.
 
 
 # Compatibility Warnings
